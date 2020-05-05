@@ -1,0 +1,57 @@
+.upperheader{
+    background-color: blue;
+    height: 100px;
+    width: 100%;
+    text-align: right;
+}
+button{
+    background-color: white;
+}
+ul{
+    display: inline;
+    list-style: none;
+}
+li{
+    display: inline;
+    margin-left: 20px;
+    padding: 20px,20px;
+    list-style: none;
+}
+a{
+    color: black;
+    height: 40px;
+    width: 40px;
+}
+a:hover{
+    color: gray;
+    background-color: blue;
+
+}
+.img{
+    size: 100%;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+table>tr>td>ul>li>img{
+    margin-right: 50px;
+    display: inline;
+}
+.news>p{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    height: 20px;
+    padding: 50px,10px,50px,10px;
+}
+.intro{
+    text-align: center;
+    color: green;
+    background-color: whitesmoke;
+}
+.introduction{
+  background-color: whitesmoke;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 1.3rem;
+  font-family: serif;
+}

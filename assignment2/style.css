@@ -1,0 +1,12 @@
+h1 ,h2{
+    text-align: center;
+    color: blueviolet;
+}
+form{
+    background-color: darkorchid;
+    color: white;   
+}
+img{
+    width: 100%;
+    max-height: 130px;
+}

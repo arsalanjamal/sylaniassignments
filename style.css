@@ -1,0 +1,25 @@
+*{
+    background-image: url(portfolio-6.jpg);
+}
+h1,h2{
+color: white;
+font: outline;
+font-weight: bold;
+font-style: italic;
+font-family:serif, Arial, Helvetica, sans-serif;
+text-align: center;
+}
+.project{
+    text-align: center;
+}
+ul{
+    display: inline;
+}
+button{
+    display: inline;
+    max-width: 300px;
+
+    max-height: 200px;
+
+
+}
